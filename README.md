@@ -70,5 +70,3 @@ Modify the `temperature`, `top_p`, or `max_tokens` to change the behavior and le
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Suggested Program Name: **OpenAI Text Response Generator**
