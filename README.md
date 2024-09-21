@@ -51,7 +51,7 @@ The program accepts two arguments:
 
 To run the program:
 ```bash
-python app.py gpt-3.5-turbo "What is the meaning of life?"
+python params.py gpt-3.5-turbo "What is the meaning of life?"
 ```
 
 ### Example Output
